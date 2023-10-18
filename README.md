@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnab1l&label=Profile%20views&color=0e75b6&style=flat" alt="nnab1l" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nnab1l.github.io/nabil-portfolio/](https://nnab1l.github.io/nabil-portfolio/)
+- 👨‍💻 All of my projects are available at [https://nabilsalimi.me](https://nabilsalimi.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
