@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">A passionate frontend developer from 🇳🇱</h3>
+<h3 align="center">A passionate front end developer from 🇳🇱</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnab1l&label=Profile%20views&color=0e75b6&style=flat" alt="nnab1l" /> </p>
